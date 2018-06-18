@@ -1,0 +1,6 @@
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\bin\Debug\Queues.dll
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\bin\Debug\Queues.pdb
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.csprojResolveAssemblyReference.cache
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.dll
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.pdb
