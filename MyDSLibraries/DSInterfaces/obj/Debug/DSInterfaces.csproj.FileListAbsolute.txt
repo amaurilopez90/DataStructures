@@ -1,5 +1,0 @@
-C:\Users\Amauri\Desktop\DataStructures\DataStructures\DSInterfaces\bin\Debug\DSInterfaces.dll
-C:\Users\Amauri\Desktop\DataStructures\DataStructures\DSInterfaces\bin\Debug\DSInterfaces.pdb
-C:\Users\Amauri\Desktop\DataStructures\DataStructures\DSInterfaces\obj\Debug\DSInterfaces.csproj.CoreCompileInputs.cache
-C:\Users\Amauri\Desktop\DataStructures\DataStructures\DSInterfaces\obj\Debug\DSInterfaces.dll
-C:\Users\Amauri\Desktop\DataStructures\DataStructures\DSInterfaces\obj\Debug\DSInterfaces.pdb
