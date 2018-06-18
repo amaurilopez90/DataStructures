@@ -1,6 +1,0 @@
-C:\Users\Amauri\Desktop\DataStructures\bin\Debug\ConsoleApplication.exe
-C:\Users\Amauri\Desktop\DataStructures\bin\Debug\ConsoleApplication.pdb
-C:\Users\Amauri\Desktop\DataStructures\obj\x86\Debug\DataStructures.csprojResolveAssemblyReference.cache
-C:\Users\Amauri\Desktop\DataStructures\obj\x86\Debug\DataStructures.csproj.CoreCompileInputs.cache
-C:\Users\Amauri\Desktop\DataStructures\obj\x86\Debug\ConsoleApplication.exe
-C:\Users\Amauri\Desktop\DataStructures\obj\x86\Debug\ConsoleApplication.pdb

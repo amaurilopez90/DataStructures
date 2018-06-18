@@ -1,0 +1,8 @@
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\bin\Debug\Stack.dll
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\bin\Debug\Stack.pdb
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\bin\Debug\DSInterfaces.dll
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\bin\Debug\DSInterfaces.pdb
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\obj\Debug\Stacks.csprojResolveAssemblyReference.cache
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\obj\Debug\Stack.dll
+C:\Users\Amauri\Desktop\DataStructures\DataStructures\Stack\obj\Debug\Stack.pdb
