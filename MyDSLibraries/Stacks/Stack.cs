@@ -2,6 +2,7 @@
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 using System.Diagnostics;
 using DSInterfaces;
 
@@ -14,20 +15,20 @@ namespace Stacks
          under the Stacks namespace
          */
 
-    public class Stack : IStack {
+    public class Stack<T> : IStack<T> {
 
         //Set up a Node class
         public class Node {
 
-            private object _data;
+            private T _data;
             private Node _next;
 
             //Getters and setters for both data and next node
-            public object Data { get { return this._data; } set { this._data = value; } }
+            public T Data { get { return this._data; } set { this._data = value; } }
             public Node Next { get { return this._next; } set { this._next = value; } }
 
             //Constructor
-            public Node(object value = null, Node next = null)
+            public Node(T value, Node next = null)
             {
                 this._data = value;
                 this._next = next;
@@ -49,7 +50,7 @@ namespace Stacks
             return this._size;
         }
 
-        public void Push(object value)
+        public void Push(T value)
         {
             Node temp = new Node(value, this.top);
             this.top = temp;

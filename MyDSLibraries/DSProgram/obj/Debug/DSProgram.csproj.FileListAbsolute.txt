@@ -10,3 +10,16 @@ C:\Users\Amauri\Desktop\DataStructures\DataStructures\DataStructures\bin\Debug\S
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\DataStructures\obj\Debug\DSProgram.csproj.CoreCompileInputs.cache
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\DataStructures\obj\Debug\DataStructures.exe
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DataStructures.exe.config
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DataStructures.exe
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DataStructures.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DSFactory.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DSInterfaces.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\Stack.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DSFactory.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\DSInterfaces.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\Stack.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DSProgram.csprojResolveAssemblyReference.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DSProgram.csproj.CoreCompileInputs.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DataStructures.exe
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DataStructures.pdb

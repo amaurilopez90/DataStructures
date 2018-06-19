@@ -2,13 +2,14 @@
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace DSInterfaces
 {
-    public interface IStack {
+    public interface IStack<T> {
 
         void Clear();
-        void Push(object value);
+        void Push(T value);
 
         int GetSize();
 
