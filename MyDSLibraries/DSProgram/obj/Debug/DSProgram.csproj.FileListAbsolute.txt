@@ -23,3 +23,5 @@ C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DSProgr
 C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DSProgram.csproj.CoreCompileInputs.cache
 C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DataStructures.exe
 C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\obj\Debug\DataStructures.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\Queues.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\DSProgram\bin\Debug\Queues.pdb

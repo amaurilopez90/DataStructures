@@ -13,32 +13,60 @@ namespace DSProgram
 
         static void Main(string[] args)
         {
-            #region Stacks
-            StackFactory stackFactory = new StackFactory();
+            Factory factory = new Factory();
 
-            IStack<int> myIntStack = stackFactory.CreateStack<int>();
-            IStack<string> myStringStack = stackFactory.CreateStack<string>();
+            //#region Stacks
 
-            //int stack
-            myIntStack.Push(5);
-            Debug.WriteLine(myIntStack.Pop());
-            myIntStack.Push(4);
-            myIntStack.Push(15);
-            Debug.WriteLine(myIntStack.Peek());
-            myIntStack.Pop();
-            Debug.WriteLine(myIntStack.Pop());
-            Debug.WriteLine(myIntStack.GetSize());
+            //IStack<int> myIntStack = factory.CreateStack<int>();
+            //IStack<string> myStringStack = factory.CreateStack<string>();
 
-            //string stack
-            myStringStack.Push("hello.");
-            Debug.WriteLine(myStringStack.Pop());
-            myStringStack.Push("goodbye.");
-            myStringStack.Push("please.");
-            Debug.WriteLine(myStringStack.Peek());
-            myStringStack.Pop();
-            Debug.WriteLine(myStringStack.Pop());
-            Debug.WriteLine(myStringStack.GetSize());
-            #endregion
+            ////int stack
+            //myIntStack.Push(5);
+            //Debug.WriteLine(myIntStack.Pop());
+            //myIntStack.Push(4);
+            //myIntStack.Push(15);
+            //Debug.WriteLine(myIntStack.Peek());
+            //myIntStack.Pop();
+            //Debug.WriteLine(myIntStack.Pop());
+            //Debug.WriteLine(myIntStack.GetSize());
+
+            ////string stack
+            //myStringStack.Push("hello.");
+            //Debug.WriteLine(myStringStack.Pop());
+            //myStringStack.Push("goodbye.");
+            //myStringStack.Push("please.");
+            //Debug.WriteLine(myStringStack.Peek());
+            //myStringStack.Pop();
+            //Debug.WriteLine(myStringStack.Pop());
+            //Debug.WriteLine(myStringStack.GetSize());
+            //#endregion
+
+            //#region Queues
+
+            //IQueue<int> myIntQueue = factory.CreateQueue<int>();
+            //IQueue<string> myStringQueue = factory.CreateQueue<string>();
+
+            ////int queue
+            //myIntQueue.Enqueue(5);
+            //Debug.WriteLine(myIntQueue.Dequeue());
+            //myIntQueue.Enqueue(4);
+            //myIntQueue.Enqueue(15);
+            //Debug.WriteLine(myIntQueue.Peek());
+            //myIntQueue.Dequeue();
+            //Debug.WriteLine(myIntQueue.Dequeue());
+            //Debug.WriteLine(myIntQueue.GetSize());
+
+            ////string queue
+            //myStringQueue.Enqueue("hello.");
+            //Debug.WriteLine(myStringQueue.Dequeue());
+            //myStringQueue.Enqueue("goodbye.");
+            //myStringQueue.Enqueue("please.");
+            //Debug.WriteLine(myStringQueue.Peek());
+            //myStringQueue.Dequeue();
+            //Debug.WriteLine(myStringQueue.Dequeue());
+            //Debug.WriteLine(myStringQueue.GetSize());
+
+            //#endregion
 
         }
     }

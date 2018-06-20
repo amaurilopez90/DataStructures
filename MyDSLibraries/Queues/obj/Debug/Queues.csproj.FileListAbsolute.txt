@@ -4,3 +4,11 @@ C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.cs
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.dll
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Queues\obj\Debug\Queues.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\bin\Debug\Queues.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\bin\Debug\Queues.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\bin\Debug\DSInterfaces.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\bin\Debug\DSInterfaces.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\obj\Debug\Queues.csprojResolveAssemblyReference.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\obj\Debug\Queues.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Queues\obj\Debug\Queues.pdb

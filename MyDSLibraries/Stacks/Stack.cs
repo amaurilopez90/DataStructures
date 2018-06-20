@@ -57,17 +57,21 @@ namespace Stacks
             this._size++;
         }
 
-        public object Pop()
+        public T Pop()
         {
-            object value = null;
+            T value = default(T);
             if (!this.IsEmpty())
             {
                 value = this.top.Data;
                 this.top = this.top.Next;
+                this._size--;
             }
-            else { Debug.WriteLine("Nothing to pop."); }
+            else
+            {
+                Debug.WriteLine("Nothing to pop.");
 
-            this._size--;
+            }
+
             return value;
         }
 
@@ -76,7 +80,7 @@ namespace Stacks
             return this._size == 0;
         }
 
-        public object Peek()
+        public T Peek()
         {
 
             if (!this.IsEmpty())
@@ -84,7 +88,7 @@ namespace Stacks
             else
             {
                 Debug.WriteLine("Nothing to peek.");
-                return null;
+                return default(T);
             }
         }
 

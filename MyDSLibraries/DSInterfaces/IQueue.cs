@@ -1,22 +1,22 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Collections.Generic;
 
-namespace DSInterfaces
-{
-    public interface IStack<T> {
+namespace DSInterfaces {
+
+    public interface IQueue<T> {
 
         void Clear();
-        void Push(T value);
+
+        void Enqueue(T value);
 
         int GetSize();
 
         bool IsEmpty();
 
-        T Pop();
+        T Dequeue();
         T Peek();
-
     }
 }
