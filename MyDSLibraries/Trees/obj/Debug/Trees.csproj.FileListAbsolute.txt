@@ -4,3 +4,9 @@ C:\Users\Amauri\Desktop\DataStructures\DataStructures\Trees\obj\Debug\Trees.cspr
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Trees\obj\Debug\Trees.dll
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Trees\obj\Debug\Trees.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Trees\bin\Debug\Trees.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Trees\bin\Debug\Trees.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Trees\obj\Debug\Trees.csprojResolveAssemblyReference.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Trees\obj\Debug\Trees.csproj.CoreCompileInputs.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Trees\obj\Debug\Trees.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Trees\obj\Debug\Trees.pdb

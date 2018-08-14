@@ -3,3 +3,11 @@ C:\Users\Amauri\Desktop\DataStructures\DataStructures\Heaps\bin\Debug\Heaps.pdb
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Heaps\obj\Debug\Heaps.csproj.CoreCompileInputs.cache
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Heaps\obj\Debug\Heaps.dll
 C:\Users\Amauri\Desktop\DataStructures\DataStructures\Heaps\obj\Debug\Heaps.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\bin\Debug\Heaps.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\bin\Debug\Heaps.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\obj\Debug\Heaps.csproj.CoreCompileInputs.cache
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\obj\Debug\Heaps.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\obj\Debug\Heaps.pdb
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\bin\Debug\DSInterfaces.dll
+C:\Users\Amauri\Desktop\DataStructures\MyDSLibraries\Heaps\bin\Debug\DSInterfaces.pdb

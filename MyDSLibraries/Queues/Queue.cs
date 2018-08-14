@@ -13,7 +13,7 @@ namespace Queues
      
          When you want to implement other Queues
          create classes for them just like you did here
-         under the Stacks namespace
+         under the Queues namespace
          */
 
     public class Queue<T> : IQueue<T>

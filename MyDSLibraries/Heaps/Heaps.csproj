@@ -40,9 +40,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MaxIntHeap.cs" />
-    <Compile Include="MinIntHeap.cs" />
+    <Compile Include="MaxHeap.cs" />
+    <Compile Include="MinHeap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DSInterfaces\DSInterfaces.csproj">
+      <Project>{dd20f446-907f-4c81-b1c5-b2f7da9bba3b}</Project>
+      <Name>DSInterfaces</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

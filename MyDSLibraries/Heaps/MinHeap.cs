@@ -5,6 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Heaps {
-    class MinIntHeap {
+    class MinHeap {
     }
 }

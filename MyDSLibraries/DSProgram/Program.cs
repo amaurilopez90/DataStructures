@@ -68,6 +68,16 @@ namespace DSProgram
 
             //#endregion
 
+            //#region Heaps
+
+            //IHeap<int> MaxIntHeap = factory.CreateHeap<int>();
+            //MaxIntHeap.Add(5);
+            //MaxIntHeap.Add(6);
+            //MaxIntHeap.Poll();
+            //Debug.WriteLine(MaxIntHeap.Peek());
+
+            //#endregion
+
         }
     }
 }
