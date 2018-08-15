@@ -17,43 +17,50 @@ namespace DSFactory
 {
     public class Factory {
 
-        public IStack<T> CreateStack<T> (int i = 0)
+        public IStack<T> CreateStack<T> (string type = "Linked")
         {
             /* Below If statments will be used when different types of Stacks have been implemented */
-            //if(i == 0)
+            //if(type == "Linked")
             //{
             //}
-            //else if(i == 1)
+            //else if(type == "Array")
             //{
             //}
             
-            return new Stack<T>();
+            return new LinkedStack<T>();
         }
 
-        public IQueue<T> CreateQueue<T> (int i = 0)
+        public IQueue<T> CreateQueue<T> (string type = "Linked")
         {
             /* Below If statments will be used when different types of Queues have been implemented */
-            //if(i == 0)
+            //if(type == "Linked")
             //{
             //}
-            //else if(i == 1)
+            //else if(type == "Array")
+            //{
+            //}
+            //else if(type == "CircularLinked")
+            //{
+            //}
+            //else if(type == "CircularArray")
             //{
             //}
 
-            return new Queue<T>();
+            return new LinkedQueue<T>();
 
         }
 
-        public IHeap<T> CreateHeap<T> (int i = 0) where T : struct, IComparable, IFormattable, IConvertible, IComparable<T>, IEquatable<T>
+        public IHeap<T> CreateHeap<T> (string type = "Max") where T : struct, IComparable, IFormattable, IConvertible, IComparable<T>, IEquatable<T>
         {
             /* Below If statments will be used for different types of Heaps */
 
             //Default to Max Heap
-            if (i == 0)
+            if (type == "Max")
                 return new MaxHeap<T>();
-            else
+            else if (type == "Min")
                 return new MinHeap<T>();
-
+            else
+                throw new ArgumentException("Parameter must specify a valid type.\nSupported types: 'Max(default)', 'Min'");
         }
 
     }

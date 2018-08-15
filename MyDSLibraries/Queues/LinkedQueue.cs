@@ -16,7 +16,7 @@ namespace Queues
          under the Queues namespace
          */
 
-    public class Queue<T> : IQueue<T>
+    public class LinkedQueue<T> : IQueue<T>
     {
         //Set up a Node class
         public class Node {
@@ -41,7 +41,7 @@ namespace Queues
         private Node rear;
         private int size;
 
-        public Queue()
+        public LinkedQueue()
         {
             this.front = this.rear = null;
             this.size = 0;

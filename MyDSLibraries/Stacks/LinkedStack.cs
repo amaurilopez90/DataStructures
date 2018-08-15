@@ -15,7 +15,7 @@ namespace Stacks
          under the Stacks namespace
          */
 
-    public class Stack<T> : IStack<T> {
+    public class LinkedStack<T> : IStack<T> {
 
         //Set up a Node class
         public class Node {
@@ -39,7 +39,7 @@ namespace Stacks
         private Node top;
         private int _size;
 
-        public Stack()
+        public LinkedStack()
         {
             this.top = null;
             this._size = 0;
