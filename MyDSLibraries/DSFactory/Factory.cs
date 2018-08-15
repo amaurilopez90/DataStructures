@@ -48,14 +48,12 @@ namespace DSFactory
         {
             /* Below If statments will be used for different types of Heaps */
 
-            //if(i == 0)
-            //{
-            //}
-            //else if(i == 1)
-            //{
-            //}
+            //Default to Max Heap
+            if (i == 0)
+                return new MaxHeap<T>();
+            else
+                return new MinHeap<T>();
 
-            return new MaxHeap<T>();
         }
 
     }
